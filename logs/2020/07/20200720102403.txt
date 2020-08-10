@@ -1,0 +1,18 @@
+20200720102403 --- martin petrov photo Burgas Kiril i Metodii 3
+georgi ivanov photo Sofia Gotze Delchev 24
+ivan petkov photo Plovdiv Hristo Botev 123
+marta petrov photo Vidin Ivan Vazov 75
+gergana ivanova photo Haskovo Makedonska 12
+hristo petkov photo Stara zagora Vasil Levski 41
+dimitar petrov photo Burgas Lazur 65
+mladen ivanov photo Sofia Kiril i Metodii 11
+daniel petkov photo Plovdiv Gotze Delchev 236
+martin petrov photo Vidin Hristo Botev 4
+georgi ivanov photo Haskovo Ivan Vazov 53
+ivan petkov photo Stara zagora Makedonska 31
+marta petrova photo Burgas Vasil Levski 87
+gergana georgieva photo Sofia Lazur 42
+hristo petkov photo Plovdiv Kiril i Metodii 1
+dimitar petrov photo Vidin Gotze Delchev 6
+mladen ivanov photo Haskovo Hristo Botev 21
+

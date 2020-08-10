@@ -1,0 +1,19 @@
+{
+  "properties": [
+    {
+      "name": "spring.jpa.hibernate.show-sql",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.hibernate.show-sql."
+    },
+    {
+      "name": "spring.jpa.hibernate.show-sql",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.hibernate.show-sql."
+    },
+    {
+      "name": "vaadin.compatibilityMode",
+      "type": "java.lang.String",
+      "description": "Description for vaadin.compatibilityMode."
+    }
+  ]
+}

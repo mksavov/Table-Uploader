@@ -1,0 +1,9 @@
+[part='navbar'] {
+    align-items: center;
+    justify-content: center;
+}
+
+.v-caption-currentUser {
+    text-align: right;
+    justify-content: right;
+}
